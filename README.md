@@ -7,3 +7,4 @@ See Project-brief.md for full brief
 # Month: 2 Preparation of environment and Python Beginning
 ## week 5: Set up Python, vs code and Terminal. hello.py runs
 ## week 6: set up the project with uv and added pandas. check.py prints the pandas version.
+## Week 7: analyse.py reads wards.csv, converts each area and classifies each ward.
